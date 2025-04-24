@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crypto Carnival</title>
+  <style>
+    body {
+      background-color: #fff0e1;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      color: #c94b4b;
+      font-size: 2.5rem;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #444;
+      margin: 1rem 0;
+    }
+    .highlight {
+      color: #ff3e3e;
+      font-weight: bold;
+      font-size: 1.3rem;
+    }
+    .token-list {
+      margin-top: 2rem;
+    }
+    .token-list li {
+      margin: 0.5rem 0;
+      font-weight: bold;
+    }
+    .credit {
+      margin-top: 3rem;
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Crypto Carnival</h1>
+  <p>Step right up and join the fun! Earn crypto from simple games — it’s a whole new world of rewards!</p>
+  <p class="highlight">Get in early — BIG rewards for the early birds!</p>
+  
+  <div class="token-list">
+    <h2>Featured Tokens:</h2>
+    <ul>
+      <li>SOBEX</li>
+      <li>SOBX (Shooter)</li>
+      <li>TOSS (Beanbag Game)</li>
+      <li>G-Spot (Dunk Game)</li>
+      <li>Clit or Us (Dartboard Game)</li>
+      <li>WACK MEME</li>
+      <li>DOB (Dode Bump)</li>
+    </ul>
+  </div>
+
+  <div class="credit">Created by: BigDaddyAZ82</div>
+</body>
+</html>
